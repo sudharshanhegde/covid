@@ -1,0 +1,16 @@
+body {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #83557ca7;
+
+}
+h1 {
+    font-size: 64px;
+    color: #0606067e;
+    text-align: center;
+
+}
